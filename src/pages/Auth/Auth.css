@@ -68,7 +68,7 @@
 .authForm{
     background-color: var(--cardColor);
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 5rem;
 }
 .authForm>div{
     width: 100%;

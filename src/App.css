@@ -45,7 +45,10 @@
   background: transparent;
   border: 0.5px solid var(--orange);
 }
-
+.button:disabled{
+  background-color: silver;
+  pointer-events: none;
+}
 ::-webkit-scrollbar{
   display: none;
 }
